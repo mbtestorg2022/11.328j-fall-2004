@@ -6,35 +6,346 @@ uid: ddae6b41-d1f7-a146-cf2e-64e14e253c13
 
 A list of readings by session is below, followed by a complete [bibliography](#biblio) for the course.
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part I: Observing the City**{{< /td-colspan >}} |||
-| 1 | _Introduction_ | Inam, Aseem. "Meaningful Urban Design: Telelogical/ Catalytic/ Relevant." _Journal of Urban Design_ 7, no. 1 (2002): 35-58.  {{< br >}}   {{< br >}}Kallus, Rachel. "From Abstract to Concrete: Subjective Reading of Urban Space." _Journal of Urban Design_ 6, no. 2 (2001): 129-150. |
-| 2 | _Walk - East Cambridge/Kendall_ | Jacobs, Allan B. "Starting to Look." In _Looking at Cities._ Cambridge: Harvard University Press, 1985, pp. 1-13.  {{< br >}}  {{< br >}}Fleming, Ronald Lee. "Questions to Ask a Space." _Places_ 6, no. 4 (Summer 1990): 12-13. |
-| 3 | _A Methodology For Physical Analysis_ | Jacobs, Allan B. "Clues." In _Looking at Cities._ Cambridge: Harvard University Press, 1985, pp. 30-83.  {{< br >}}  {{< br >}}"Site Inventory." 1992.  {{< br >}}  {{< br >}}Krier, Leon. "Urban Components." 1979. |
-| 4 | _Walk - South End/Back Bay_ | Moudon, Anne Vernez. "A Catholic Approach to Organizing What Urban Designers Should Know." _Journal of Planning Literature_ 6, no. 4 (May 1992): 331-348.  {{< br >}}  {{< br >}}Bookout, Lloyd W., and James W. Wentling. "Density by Design." In _Urban Land._ June 1988, pp. 10-15.  {{< br >}}  {{< br >}}Jacobs, Allan B. _Great Streets._ Cambridge, MIT Press, 1993.  |
-| 5 | _Freehand Sketching and Drawing Types I_ | Guptill, Arthur L. _Rendering in Pen and Ink_. Edited by Susan E. Meyer. New York: Watson-Guptill Publications, 1976.  {{< br >}}  {{< br >}}Browning, Hugh C. _The Principles of Architectural Drafting: A Sourcebook of Techniques and Graphic Standards._ New York: Watson-Guptill Publications, 1996. (Reference.) |
-| 6 | _Walk - Fens/Muddy River_ | Dramstad, Wenche E., James D. Olson, et al. _Landscape Ecology Principles in Landscape Architecture and Land-Use Planning._ Washington, DC: Island Press, 1996, pp. 18-45.  {{< br >}}  {{< br >}}Calthorpe, Peter, and Sim Van der Ryn. "Introduction: Ecology and the Commons." In _Sustainable Communities: A New Design Synthesis for Cities, Suburbs and Towns._ San Francisco, Sierra Club Books, 1986, pp. viii-xvii.  |
-| {{< td-colspan 3 >}}**Part II: Interpreting the City**{{< /td-colspan >}} |||
-| 7 | _Freehand Sketching and Drawing Types II_ | Francis, Mark, ed. "Parking Gardens." In _The Meaning of Gardens._ Cambridge: MIT Press, 1990, pp. 130-137. |
-| 8 | _In Class Presentation (Assignment 1 - Part A and B)_ | &nbsp; |
-| 9 | _Rendering By Hand_ | Doyle, Michael E. _Color Drawing: A marker/colored-pencil approach for architects, landscape architects, interior and graphic designers, and artists._ New York: Van Nostrand Reinhold Co., 1980. (Reference.) |
-| 10 | _Walk - Alewife_ | &nbsp; |
-| 11 | _Fundamentals of Line Drawings I_ | &nbsp; |
-| 12 | _Walk - Cambridgeport_ | &nbsp; |
-| 13 | _Fundamentals of Digital Work_ | &nbsp; |
-| 14 | _Walk - Suburbs_ | &nbsp; |
-| 15 | _Fundamentals of Digital Work II_ | &nbsp; |
-| 16 | _Review Assignment Two_ | &nbsp; |
-| {{< td-colspan 3 >}}**Part III: Representing the City**{{< /td-colspan >}} |||
-| 17 | _Models_ | &nbsp; |
-| 18 | _Walk - Final Project Site_ | &nbsp; |
-| 19 | _Perspective Basics_ | &nbsp; |
-| 20 | _Presentations - Case Studies_ | &nbsp; |
-| 21 | _Graphic Presentations_ | &nbsp; |
-| 22 | _Laying Out Final Panels_ | &nbsp; |
-| 23 | _Work Day_ | &nbsp; |
-| 24 | _Final Review_ |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part I: Observing the City**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+_Introduction_
+{{< tdclose >}}
+{{< tdopen >}}
+Inam, Aseem. "Meaningful Urban Design: Telelogical/ Catalytic/ Relevant." _Journal of Urban Design_ 7, no. 1 (2002): 35-58.  
+   
+Kallus, Rachel. "From Abstract to Concrete: Subjective Reading of Urban Space." _Journal of Urban Design_ 6, no. 2 (2001): 129-150.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_Walk - East Cambridge/Kendall_
+{{< tdclose >}}
+{{< tdopen >}}
+Jacobs, Allan B. "Starting to Look." In _Looking at Cities._ Cambridge: Harvard University Press, 1985, pp. 1-13.  
+  
+Fleming, Ronald Lee. "Questions to Ask a Space." _Places_ 6, no. 4 (Summer 1990): 12-13.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_A Methodology For Physical Analysis_
+{{< tdclose >}}
+{{< tdopen >}}
+Jacobs, Allan B. "Clues." In _Looking at Cities._ Cambridge: Harvard University Press, 1985, pp. 30-83.  
+  
+"Site Inventory." 1992.  
+  
+Krier, Leon. "Urban Components." 1979.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Walk - South End/Back Bay_
+{{< tdclose >}}
+{{< tdopen >}}
+Moudon, Anne Vernez. "A Catholic Approach to Organizing What Urban Designers Should Know." _Journal of Planning Literature_ 6, no. 4 (May 1992): 331-348.  
+  
+Bookout, Lloyd W., and James W. Wentling. "Density by Design." In _Urban Land._ June 1988, pp. 10-15.  
+  
+Jacobs, Allan B. _Great Streets._ Cambridge, MIT Press, 1993. 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_Freehand Sketching and Drawing Types I_
+{{< tdclose >}}
+{{< tdopen >}}
+Guptill, Arthur L. _Rendering in Pen and Ink_. Edited by Susan E. Meyer. New York: Watson-Guptill Publications, 1976.  
+  
+Browning, Hugh C. _The Principles of Architectural Drafting: A Sourcebook of Techniques and Graphic Standards._ New York: Watson-Guptill Publications, 1996. (Reference.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_Walk - Fens/Muddy River_
+{{< tdclose >}}
+{{< tdopen >}}
+Dramstad, Wenche E., James D. Olson, et al. _Landscape Ecology Principles in Landscape Architecture and Land-Use Planning._ Washington, DC: Island Press, 1996, pp. 18-45.  
+  
+Calthorpe, Peter, and Sim Van der Ryn. "Introduction: Ecology and the Commons." In _Sustainable Communities: A New Design Synthesis for Cities, Suburbs and Towns._ San Francisco, Sierra Club Books, 1986, pp. viii-xvii. 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part II: Interpreting the City**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Freehand Sketching and Drawing Types II_
+{{< tdclose >}}
+{{< tdopen >}}
+Francis, Mark, ed. "Parking Gardens." In _The Meaning of Gardens._ Cambridge: MIT Press, 1990, pp. 130-137.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_In Class Presentation (Assignment 1 - Part A and B)_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_Rendering By Hand_
+{{< tdclose >}}
+{{< tdopen >}}
+Doyle, Michael E. _Color Drawing: A marker/colored-pencil approach for architects, landscape architects, interior and graphic designers, and artists._ New York: Van Nostrand Reinhold Co., 1980. (Reference.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_Walk - Alewife_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_Fundamentals of Line Drawings I_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_Walk - Cambridgeport_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+_Fundamentals of Digital Work_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+_Walk - Suburbs_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_Fundamentals of Digital Work II_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+_Review Assignment Two_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part III: Representing the City**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+_Models_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+_Walk - Final Project Site_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+_Perspective Basics_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+_Presentations - Case Studies_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+_Graphic Presentations_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+_Laying Out Final Panels_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+_Work Day_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+_Final Review_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "biblio" >}}{{< /anchor >}}Urban Design Bibliography
 ---------------------------------------------------------------
